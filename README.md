@@ -21,7 +21,7 @@
 
 <p align="center">
   💻 3rd-year CS @ Queen’s University • 🌱 AI, Algorithms & Databases •
-  🔭 Full-stack (JS, Node.js, MongoDB) • ⛳️ Hockey & Golf
+  🔭 Full-stack (JS, Node.js, React, MongoDB) • ⛳️ Hockey & Golf
 </p>
 
 ---
