@@ -74,24 +74,13 @@
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <!-- your overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CoreyMcCann&show_icons=true&theme=tokyonight&hide_border=true" alt="Corey’s stats" />
-
   <!-- commit streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreyMcCann&theme=tokyonight&hide_border=true" alt="Corey’s streak" />
-</div>
-
----
-
-### 📊 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyMcCann&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=CoreyMcCann&theme=tokyonight&hide_border=true" alt="Corey’s streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CoreyMcCann.CoreyMcCann" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=CoreyMcCann&style=flat-square" alt="profile views" />
 </div>
 
